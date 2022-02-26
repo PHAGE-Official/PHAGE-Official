@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PHAGE-Official
+- 👋 Hi, I’m @PHAGE-Official(by the way I'm a senior high school student actually...)
 - 👀 I’m interested in programming,skateboarding,organic chemistry and chessing
 - 🌱 I’m currently learning assembly language,cpp,c and javac
 - 📫 Actually I don't like communicate with others...
