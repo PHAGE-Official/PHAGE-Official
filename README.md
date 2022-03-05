@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming,skateboarding,organic chemistry and chessing
 - 🌱 I’m currently learning assembly language,cpp,c and javac
 - 📫 Actually I don't like communicate with others...
-- 😍 My favourite idols are Iz*one,(G)i-dle and Billie Elish
+- 😍 My favourite idols are Iz*one,(G)i-dle(especially YENA)
 - 🟢 My dream is to design my own opearting system for all machine
 
 <!---
