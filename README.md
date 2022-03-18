@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PHAGE-Official(by the way I'm a senior high school student actually...)
+- 👋 Hi, I’m @PHAGE-Official(btw I'm a senior high school student actually...)
 - 👀 I’m interested in programming,skateboarding,organic chemistry and chessing
 - 🌱 I’m currently learning assembly language,cpp,c and javac
 - 📫 Actually I don't like communicate with others...
-- 😍 My favourite idols are Iz*one,(G)i-dle(especially YENA)
+- 😍 My favourite idols are Iz*one,(G)i-dle(especially Yena)
 - 🟢 My dream is to design my own opearting system for all machine
 
 <!---
